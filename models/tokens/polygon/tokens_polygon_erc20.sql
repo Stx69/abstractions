@@ -56,7 +56,7 @@ SELECT LOWER(contract_address) AS contract_address, symbol, decimals
 ,('0x44a6e0be76e1d9620a7f76588e4509fe4fa8e8c8', 'FOMO', 18)
 ,('0x6a3e7c3c6ef65ee26975b12293ca1aad7e1daed2', 'ALPHA', 18)
 ,('0x42e5e06ef5b90fe15f853f59299fc96259209c5c', 'KEK', 18) 
-.('0x3801c3b3b5c98f88a9c9005966aa96aa440b9afc', 'GLTR', 18)        
+,('0x3801c3b3b5c98f88a9c9005966aa96aa440b9afc', 'GLTR', 18)        
 ,('0xe0b52e49357fd4daf2c15e02058dce6bc0057db4', 'agEUR', 18)
 ,('0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a', 'SUSHI', 18)
 ,('0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3', 'BAL', 18)
